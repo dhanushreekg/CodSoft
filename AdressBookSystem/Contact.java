@@ -16,8 +16,7 @@ public class Contact {
         return name;
     }
 
-    // Other getters and setters for phoneNumber and emailAddress
-    // ...
+     
 
     @Override
     public String toString() {

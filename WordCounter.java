@@ -34,8 +34,7 @@ public class WordCounter {
         
         System.out.println("Total word count: " + wordCount);
         
-        // Additional features could be added here
-        
+         
         scanner.close();
     }
     
